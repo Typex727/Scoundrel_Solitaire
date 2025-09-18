@@ -1,4 +1,5 @@
 🃏 Scoundrel Solitaire
+
 📖 Game Overview
 You find yourself inside a dungeon made of a 52-card deck. Each room contains 4 cards, and you must interact with 3 to move forward. The remaining card will appear in the next room.
 
